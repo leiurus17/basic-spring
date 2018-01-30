@@ -2,7 +2,6 @@ package info.spring;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-
 import info.spring.api.UsersRepository;
 import info.spring.domain.User;
 
