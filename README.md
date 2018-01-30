@@ -1,2 +1,2 @@
 # basic-spring
-Basic of spring java
+Basic of Spring Java - tutorial
